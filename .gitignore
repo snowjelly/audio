@@ -24,3 +24,5 @@ audio-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+native/audio_rodio/audio_files
